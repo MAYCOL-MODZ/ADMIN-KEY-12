@@ -16,5 +16,11 @@
         "key": "Montana",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bcd04c812799cc3a",
+        "key": "Zarchiver",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
     }
 ]
